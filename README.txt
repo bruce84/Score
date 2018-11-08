@@ -6,3 +6,4 @@ master
 dev
 dev2
 dev3
+remote
