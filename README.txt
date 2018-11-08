@@ -9,3 +9,4 @@ dev3
 remote2
 remote
 local
+remote changed
