@@ -7,3 +7,4 @@ dev
 dev2
 dev3
 remote2
+remote
